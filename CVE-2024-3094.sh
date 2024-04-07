@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Ubuntu Security Hardening Script
-# Author: Alok Majumder
+# Author: Aloke Majumder
 # GitHub: https://github.com/alokemajumder
 # License: MIT License
 
